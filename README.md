@@ -1,0 +1,1 @@
+A simple library to change the value returned from `getpid()`. Set the environment variable `OLCF_PID` to a valid value and set `LD_PRELOAD=/path/to/libset_pid`
